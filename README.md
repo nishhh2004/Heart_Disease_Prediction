@@ -57,14 +57,18 @@ Heart disease is one of the leading causes of death worldwide. Early detection a
 
 ```
 Heart_Disease_Prediction-main/
-│
-├── Heart_MLModel.ipynb
 ├── HeartClean_Dataset (1).csv
+├── Heart_MLModel.ipynb
+├── README.md
 ├── app.py
 ├── heart_model.pkl
-├── scaler.pkl
+├── plot1_outlier_detection.png
+├── plot2_correlation_heatmap.png
+├── plot3_confusion_matrix.png
+├── plot4_roc_curve.png
 ├── requirements.txt
-└── README.md
+└── scaler.pkl
+
 ```
 
 ---
